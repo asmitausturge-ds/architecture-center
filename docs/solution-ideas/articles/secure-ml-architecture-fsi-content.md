@@ -64,7 +64,7 @@ This solution outlines a secure machine learning architecture aimed at Banks and
 
 ### Potential use cases
 
-This solution is aimed at financial services companies such as banks, insurers, and capital market companies that want to gain agility and efficiency by bringing their data science workloads to the cloud, but with particular attention to the solution's security.
+This solution is aimed at financial services companies such as Banks,Insurance providers, and capital market firms that want to gain agility and efficiency by bringing their data science workloads to the cloud, but with particular attention to the solution's security.
  
 In addition to companies in the FSI segment, other businesses interested in creating a secure data science environment in the cloud can also benefit from this solution. 
 
